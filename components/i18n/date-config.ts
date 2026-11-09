@@ -9,7 +9,6 @@ export {
   type WeekDayIndex,
   type NzDateConfig,
   NZ_DATE_CONFIG,
-  NZ_DATE_LOCALE,
   NZ_DATE_CONFIG_DEFAULT,
   mergeDateConfig
 } from 'ng-zorro-antd/core/time';
